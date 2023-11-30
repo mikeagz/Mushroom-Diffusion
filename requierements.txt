@@ -1,3 +1,4 @@
+torch
 datasets 
 kaggle
 jupyterlab
@@ -5,3 +6,4 @@ Pillow
 huggingface_hub
 wandb
 tensorboard
+diffusers

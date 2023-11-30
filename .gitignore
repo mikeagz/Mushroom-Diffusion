@@ -2,3 +2,7 @@ data/raw
 ddpm-mushrooms-128/logs
 ddpm-mushrooms-128/scheduler
 ddpm-mushrooms-128/unet
+
+ddpm-mushrooms-2class-128/logs
+ddpm-mushrooms-2class-128/scheduler
+ddpm-mushrooms-2class-128/unet
