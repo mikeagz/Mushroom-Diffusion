@@ -1,1 +1,4 @@
 data/raw
+ddpm-mushrooms-128/logs
+ddpm-mushrooms-128/scheduler
+ddpm-mushrooms-128/unet

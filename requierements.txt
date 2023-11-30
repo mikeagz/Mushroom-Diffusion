@@ -4,3 +4,4 @@ jupyterlab
 Pillow
 huggingface_hub
 wandb
+tensorboard
