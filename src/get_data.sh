@@ -1,0 +1,1 @@
+kaggle datasets download -d maysee/mushrooms-classification-common-genuss-images -p data/raw/ 

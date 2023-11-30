@@ -1,0 +1,6 @@
+datasets 
+kaggle
+jupyterlab
+Pillow
+huggingface_hub
+wandb
